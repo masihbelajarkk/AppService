@@ -7,7 +7,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.content.Intent;
 import android.os.IBinder;
-import java.io.IOException;
 
 
 public class WallpaperChangeServise extends Service implements Runnable {
